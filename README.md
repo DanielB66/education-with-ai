@@ -1,14 +1,14 @@
 # AI in Education - Embed
 
-This project displays a presentation titled **"Artificial Intelligence in Education"** using an embedded iframe from Gamma.app.
+This is a simple webpage that embeds a presentation titled **"Artificial Intelligence in Education"** from Gamma.app, and allows viewing it in fullscreen.
 
-## 📂 Files
+## 🧾 Files
 
-- `index.html`: Main HTML file including the embedded presentation and fullscreen button.
-- `style.css`: Basic styling for the page and button.
-- `README.md`: Project description and usage instructions.
+- `index.html`: Embeds the presentation and includes fullscreen support.
+- `style.css`: Provides basic layout and styling.
+- `README.md`: Documentation for setup and usage.
 
-## 🚀 How to Run
+## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
